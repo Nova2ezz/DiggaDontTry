@@ -1,4 +1,4 @@
--- fuck the double agents
+-- List of whitelisted user IDs
 return {
     Whitelisted = {
         692257363,

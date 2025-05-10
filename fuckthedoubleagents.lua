@@ -1,11 +1,12 @@
--- fuck the double agents
-return {
-    Whitelisted = {
-        1662328284,
-        8311917875,
-        692257363,
-        1261348136,
-        4424823546,
-
+-- fuck double agents
+function getWhitelisted()
+    return {
+        Whitelisted = {
+            1662328284,
+            8311917875,
+            692257363,
+            1261348136,
+            4424823546
+        }
     }
-}
+end

@@ -1,6 +1,4 @@
--- fuck double agents
-function getWhitelisted()
-    return {
+return {
         Whitelisted = {
             1662328284,
             8311917875,
